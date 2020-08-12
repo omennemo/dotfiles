@@ -135,3 +135,10 @@ nnoremap <C-f> :GFiles<CR>
 nmap <leader>gh :diffget //3<CR>
 nmap <leader>gu :diffget //2<CR>
 nmap <leader>gs :G<CR>
+
+nmap <leader>w :w<CR>
+nmap <leader>ls :Buffers<CR>
+nmap <leader>c :nohl<CR>
+nmap <leader><tab> :bn<CR>
+nmap <leader>x :bd<CR>
+
